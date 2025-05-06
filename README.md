@@ -41,3 +41,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=capelinha&layout=compact" alt="Wakatime"/> &nbsp;
 </div>
+
+&nbsp;
+
+<div align="center">
+  <img src="https://wakatime.com/share/@Capelinha/a5f31e50-0010-47c0-8808-70f6ff8384c2.svg" alt="Wakatime"/> &nbsp;
+</div>
