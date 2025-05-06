@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=F79829&weight=700&width=190&height=30&center=true&lines=Hi!+I'm+Capelinha+:D+;Welcome+to+my+git+:)" alt="Title"/></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=007acc&weight=700&width=190&height=30&center=true&lines=Hi!+I'm+Capelinha+:D+;Welcome+to+my+git+:)" alt="Title"/></h1>
 
 <p align="center">I'm passionate about <b>web development and full-stack development</b>. I specialize in building applications using <b>Angular and Serverless architecture</b>.</p>
 
