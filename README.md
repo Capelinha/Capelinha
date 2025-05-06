@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6754e3&width=240&height=30&lines=Hi!+I'm+Capelinha+:D+;Welcome+to+my+git+:)" alt="Title"/></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=F79829&weight=700&width=190&height=30&center=true&lines=Hi!+I'm+Capelinha+:D+;Welcome+to+my+git+:)" alt="Title"/></h1>
 
 <p align="center">I'm passionate about <b>web development and full-stack development</b>. I specialize in building applications using <b>Angular and Serverless architecture</b>.</p>
 
@@ -26,9 +26,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </p>
 
-<h3 align="center" style="color:#B69FD5;">Plataforms</h3>
+<h3 align="center" style="color:#B69FD5;">Platforms</h3>
 <p align="center">
   <img src="/icons/arduino.svg" alt="Arduino" width="40" height="40"/> &nbsp;
+  <img src="/icons/platformio.svg" alt="PlatformIO" width="40" height="40"/> &nbsp;
   <img src="/icons/rasp.svg" alt="Raspberry" width="40" height="40"/> &nbsp;
   <img src="/icons/stm32.svg" alt="STM32" width="40" height="40"/> &nbsp;
   <img src="/icons/esp32.svg" alt="ESP32" width="40" height="40"/> &nbsp;
