@@ -20,10 +20,10 @@
 
 <h3 align="center" style="color:#B69FD5;">Plataforms</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> &nbsp;
-  <img src="/icons/rasp.svg" alt="Rasp" width="40" height="40"/> &nbsp;
-  <img src="/icons/stm32.svg" alt="Rasp" width="40" height="40"/> &nbsp;
-  <img src="/icons/esp32.svg" alt="Rasp" width="40" height="40"/> &nbsp;
+  <img src="/icons/arduino.svg" alt="Arduino" width="40" height="40"/> &nbsp;
+  <img src="/icons/rasp.svg" alt="Raspberry" width="40" height="40"/> &nbsp;
+  <img src="/icons/stm32.svg" alt="STM32" width="40" height="40"/> &nbsp;
+  <img src="/icons/esp32.svg" alt="ESP32" width="40" height="40"/> &nbsp;
   <img src="/icons/nodered.svg" alt="NodeRED" width="40" height="40"/>
 </p>
 
