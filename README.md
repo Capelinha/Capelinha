@@ -8,6 +8,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="40" height="40"/></a>
 </p>
 
 <h3 align="center" style="color:#B69FD5;">Services</h3>
@@ -26,6 +27,7 @@
   <img src="/icons/nodered.svg" alt="NodeRED" width="40" height="40"/>
 </p>
 
+&nbsp;
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=capelinha&layout=compact" alt="Wakatime"/> &nbsp;
