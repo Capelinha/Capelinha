@@ -1,5 +1,13 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6754e3&width=240&height=30&lines=Hi!+I'm+Capelinha+:D+;Welcome+to+my+git+:)" alt="Title"/></h1>
 
+<p align="center">I'm passionate about <b>web development and full-stack development</b>. I specialize in building applications using <b>Angular and Serverless architecture</b>.</p>
+
+<p align="center">I genuinely <b>love JavaScript</b> and its incredible versatility — from frontend interfaces to backend logic and embedded devices, it's a language that <b>empowers creativity and speed</b>.</p>
+
+<p align="center">Outside the web, I'm deeply enthusiastic about <b>embedded hardware development and 3D printing</b>. I enjoy designing and <b>prototyping real-world solutions</b> that merge code and electronics, with the goal of quickly <b>bringing products to life</b>.</p></p>
+
+&nbsp;
+
 <h3 align="center" style="color:#B69FD5;">Main languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> &nbsp;
